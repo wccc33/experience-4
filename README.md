@@ -47,6 +47,6 @@ Java第四次实验
         }
  ```
 #### 六、实验结果
-!(实验截图)[https://github.com/wccc33/experience-4/blob/main/2.png]
-!(实验截图)[https://github.com/wccc33/experience-4/blob/main/1.png]
+![实验截图](https://github.com/wccc33/experience-4/blob/main/2.png)
+![实验截图](https://github.com/wccc33/experience-4/blob/main/1.png)
 #### 七、实验感想
